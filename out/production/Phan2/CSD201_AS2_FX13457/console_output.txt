@@ -1,0 +1,71 @@
+ID   |  Title   |   Quantity   |   Price
+--------------------------------
+a01   |   asus   |   5   |   999.9
+P05   |   Rose   |   7   |   15.4
+P04   |   Book   |   9   |   5.2
+P03   |   Sugar   |   12   |   25.1
+P07   |   Beer   |   11   |   12.2
+P02   |   Apple   |   5   |   4.3
+P01   |   Miliket   |   10   |   5.2
+
+ID   |  Title   |   Quantity   |   Price
+----------------------------------------
+P01   |   Miliket   |   10   |   5.2
+P02   |   Apple   |   5   |   4.3
+P07   |   Beer   |   11   |   12.2
+P03   |   Sugar   |   12   |   25.1
+P04   |   Book   |   9   |   5.2
+P05   |   Rose   |   7   |   15.4
+a01   |   asus   |   5   |   999.9
+
+A01   |   asus   |   5   |   999.9
+ID   |  Title   |   Quantity   |   Price
+----------------------------------------
+P01   |   Miliket   |   10   |   5.2
+P02   |   Apple   |   5   |   4.3
+P07   |   Beer   |   11   |   12.2
+P03   |   Sugar   |   12   |   25.1
+P04   |   Book   |   9   |   5.2
+P05   |   Rose   |   7   |   15.4
+a01   |   asus   |   5   |   999.9
+A01   |   asus   |   5   |   999.9
+
+ID   |  Title   |   Quantity   |   Price
+----------------------------------------
+P01   |   Miliket   |   10   |   5.2
+P02   |   Apple   |   5   |   4.3
+P07   |   Beer   |   11   |   12.2
+P03   |   Sugar   |   12   |   25.1
+P04   |   Book   |   9   |   5.2
+P05   |   Rose   |   7   |   15.4
+a01   |   asus   |   5   |   999.9
+A01   |   asus   |   5   |   999.9
+
+Resuld:
+ID   |  Title   |   Quantity   |   Price
+--------------------------------
+a01   |   asus   |   5   |   999.9
+Deleted! ID = a01
+ID   |  Title   |   Quantity   |   Price
+----------------------------------------
+A01   |   asus   |   5   |   999.9
+P01   |   Miliket   |   10   |   5.2
+P02   |   Apple   |   5   |   4.3
+P03   |   Sugar   |   12   |   25.1
+P04   |   Book   |   9   |   5.2
+P05   |   Rose   |   7   |   15.4
+P07   |   Beer   |   11   |   12.2
+
+ID   |  Title   |   Quantity   |   Price
+----------------------------------------
+A01   |   asus   |   5   |   999.9
+P01   |   Miliket   |   10   |   5.2
+P02   |   Apple   |   5   |   4.3
+P03   |   Sugar   |   12   |   25.1
+P04   |   Book   |   9   |   5.2
+P05   |   Rose   |   7   |   15.4
+P07   |   Beer   |   11   |   12.2
+
+101
+
+Resuld: -1
